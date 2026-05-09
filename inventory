@@ -1,2 +1,2 @@
-vmat-1
-vmat-2
+vmat-1 ansible_host=vmat-1 ansible_user=root ansible_python_interpreter=/usr/bin/python3
+vmat-2 ansible_host=vmat-2 ansible_user=root ansible_python_interpreter=/usr/bin/python3
